@@ -1,0 +1,24 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "This project is developed based on the NPM course in the platzi educational platform. My main intention is to master my javascript skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebazt/npm-guide.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "node"
+  ],
+  "author": "Sebatian Londoño <juan.londono29@udea.edu.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sebazt/npm-guide/issues"
+  },
+  "homepage": "https://github.com/Sebazt/npm-guide#readme"
+}
