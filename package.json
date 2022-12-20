@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/Sebazt/npm-guide/issues"
   },
-  "homepage": "https://github.com/Sebazt/npm-guide#readme"
+  "homepage": "https://github.com/Sebazt/npm-guide#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
 }
