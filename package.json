@@ -4,7 +4,8 @@
   "description": "This project is developed based on the NPM course in the platzi educational platform. My main intention is to master my javascript skills.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
+
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/Sebazt/npm-guide/issues"
   },
-  "homepage": "https://github.com/Sebazt/npm-guide#readme"
+  "homepage": "https://github.com/Sebazt/npm-guide#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
 }
